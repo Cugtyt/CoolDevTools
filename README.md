@@ -1,4 +1,6 @@
-# You just find cool dev tools to boost your development!
+# CoolDevTools
+
+You just find cool dev tools to boost your development!
 
 ## Contribute
 
