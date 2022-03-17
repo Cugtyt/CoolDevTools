@@ -6,3 +6,8 @@ Supercharge Git inside VS Code and unlock untapped knowledge within each reposit
 
 > If you use git in VS Code, you should try GitLens!
 
+## [Github](https://github.com/Microsoft/vscode-pull-request-github)
+
+GitHub Pull Requests for Visual Studio Code
+
+> Use it if you work on Github.
