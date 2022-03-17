@@ -17,3 +17,9 @@ GitHub Pull Requests for Visual Studio Code
 Your AI pair programmer. With GitHub Copilot, get suggestions for whole lines or entire functions right inside your editor.
 
 > It is amazing to complete whole lines instead of single word! Make your life easy.
+
+## [Remote Development](https://github.com/Microsoft/vscode-remote-release)
+
+Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
+
+> Use it for your remote environments and fly now.
