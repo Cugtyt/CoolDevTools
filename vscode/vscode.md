@@ -29,3 +29,9 @@ Visual Studio Code Remote Development: Open any folder in WSL, in a Docker conta
 Real-time collaborative development from the comfort of your favorite tools
 
 > Collaborate and share your code and your errors with your teammates.
+
+## [LeetCode](https://github.com/LeetCode-OpenSource/vscode-leetcode)
+
+Solve LeetCode problems in VS Code
+
+> Of cause, you know Leetcode!
