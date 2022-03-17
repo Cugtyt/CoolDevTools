@@ -35,3 +35,9 @@ Real-time collaborative development from the comfort of your favorite tools
 Solve LeetCode problems in VS Code
 
 > Of cause, you know Leetcode!
+
+## [Markdown ALL in One](https://github.com/yzhang-gh/vscode-markdown)
+
+All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
+
+> Markdown yes.
