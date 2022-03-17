@@ -11,3 +11,9 @@ Supercharge Git inside VS Code and unlock untapped knowledge within each reposit
 GitHub Pull Requests for Visual Studio Code
 
 > Use it if you work on Github.
+
+## [Copilot](https://copilot.github.com/)
+
+Your AI pair programmer. With GitHub Copilot, get suggestions for whole lines or entire functions right inside your editor.
+
+> It is amazing to complete whole lines instead of single word! Make your life easy.
