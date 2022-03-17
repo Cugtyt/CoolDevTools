@@ -9,3 +9,5 @@ Create a pull request to share your cool tools at [here](https://github.com/Cugt
 ## Tools list
 
 * [VS Code](vscode/vscode.md)
+* [Windows Terminal](windows_terminal.md)
+* [Fish shell](fish_shell.md)

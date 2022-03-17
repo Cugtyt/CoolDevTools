@@ -1,4 +1,4 @@
-# VS Code cool extensions
+# [VS Code](https://github.com/microsoft/vscode) cool extensions
 
 ## [GitLens](https://github.com/gitkraken/vscode-gitlens)
 
