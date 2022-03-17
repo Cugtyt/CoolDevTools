@@ -23,3 +23,9 @@ Your AI pair programmer. With GitHub Copilot, get suggestions for whole lines or
 Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.
 
 > Use it for your remote environments and fly now.
+
+## [Live Share](https://github.com/MicrosoftDocs/live-share)
+
+Real-time collaborative development from the comfort of your favorite tools
+
+> Collaborate and share your code and your errors with your teammates.
