@@ -4,4 +4,6 @@
 
 Create a pull request to share your cool tools.
 
-* [vocode](vscode/vscode.md)
+## Tools list
+
+* [VS Code](vscode/vscode.md)
